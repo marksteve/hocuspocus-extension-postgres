@@ -31,5 +31,8 @@
   "dependencies": {
     "@hocuspocus/extension-database": "^2.2.3",
     "postgres": "^3.3.5"
+  },
+  "publishConfig": {
+    "access": "public"
   }
 }
